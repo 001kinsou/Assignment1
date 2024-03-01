@@ -1,0 +1,83 @@
+body{background-color: black;}
+
+
+header{background-color: rgb(240, 172, 124);
+border-style: solid;
+border-color: rgb(214, 4, 4);
+border-width: 3px;
+width: 90%;
+margin: auto;
+margin-top: 30px;}
+/*End*/
+
+nav{background-color: #00ff7b;
+border-style: solid;
+border-color: #037138;
+border-width: 5px;padding: 15px;
+margin-left: 20px;
+margin-right: 20px;
+margin-top: 30px;
+margin-bottom: 20px;
+padding}
+
+/*For the nav text*/
+.pricing{text-align: right;display: inline-block;width: 75%;}
+#copyright{text-align: center;}
+
+
+main{background-color: rgb(240, 172, 124);
+    border-style: solid;
+    border-color: rgb(214, 4, 4);
+    border-width: 3px;
+    width: 90%;
+    margin: auto;
+    margin-top: 30px;}
+    
+article{background-color: #d5dad7;width: 70%;
+    border-style: solid;
+    border-color: #232826;
+    border-width: 5px;padding: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 30px;
+    margin-bottom: 20px;}
+
+    section{background-color: #3bbaf9;widh: 80%;
+        border-style: solid;
+        border-color: #056899;
+        border-width: 5px;padding: 15px;
+        margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 30px;
+        margin-bottom: 20px;
+    padding: 50px;}
+
+    aside{float:right;
+    width: 80px;
+    padding: 50px;
+    margin-top: -500px;
+    margin-right:30px ;
+    background-color: #d5dad7;
+    border-style: solid;
+    border-color:#424543 ;
+    border-width: 5px;}
+    
+
+    footer{background-color: rgb(240, 172, 124);
+        border-style: solid;
+        border-color: rgb(214, 4, 4);
+        border-width: 3px;
+        width: 90%;
+        margin: auto;
+        margin-top: 30px;}
+
+        nav{background-color: #00ff7b;
+            border-style: solid;
+            border-color: #037138;
+            border-width: 5px;padding: 15px;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-top: 30px;
+            margin-bottom: 20px;
+            padding}
+
